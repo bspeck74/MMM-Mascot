@@ -1,9 +1,7 @@
 .mascot-wrapper {
-  margin-top: -50px; /* Pulls the image up. Use a larger negative number to move it higher. */
+  margin-top: -75px; /* Pulls the image up. Use a larger negative number to move it higher. */
 }
-.mascot-wrapper {
-  margin-top: -50px; /* Pulls the image up. Use a larger negative number to move it higher. */
-}
+
 .mascot-wrapper .mascot-image {
   max-width: 100px; /* You can adjust this value to make the mascot bigger or smaller */
   height: auto;

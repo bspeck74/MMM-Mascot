@@ -1,0 +1,4 @@
+.mascot-wrapper .mascot-image {
+  max-width: 100px; /* You can adjust this value to make the mascot bigger or smaller */
+  height: auto;
+}

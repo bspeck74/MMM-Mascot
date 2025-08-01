@@ -1,9 +1,5 @@
 .mascot-wrapper {
-<<<<<<< HEAD
   margin-top: -75px; /* Pulls the image up. Use a larger negative number to move it higher. */
-=======
-  margin-top: -50px; /* Pulls the image up. Use a larger negative number to move it higher. */
->>>>>>> 76176c3488a1e7196df0ba218482fcc52be9e924
 }
 
 .mascot-wrapper .mascot-image {
